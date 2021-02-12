@@ -1,7 +1,3 @@
-/*
- * redis处理相关接口
- */
-
 #ifndef _REDIS_OP_H_
 #define _REDIS_OP_H_
 
